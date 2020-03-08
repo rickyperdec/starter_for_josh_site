@@ -1,0 +1,63 @@
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+navbar {
+    font-size: 0.875em;
+    
+}
+
+a {
+    
+    color: #a99c9c;
+    
+}
+
+a:hover {
+    
+    color: orange;
+}
+
+.nav > li > a:hover{
+    
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+
+.whitkin {
+    
+    color: orange;
+    font-size: 2.3em;
+    
+}
+
+.josh {
+    
+    font-size: 2.3em;
+    
+}
+
+.herobg {
+    
+    background: url(images/hero.jpg);
+    background-size: cover;
+}
+
+.herobg h1 {
+    
+    float: right;
+    color: white;
+    width: 341px;
+    font-size: 7.1em;
+    letter-spacing: -10px;
+    font-weight: 800;
+    line-height: 75%;
+    margin-top: 140px;
+    text-align: right;
+    padding-bottom: 10%;
+    padding-right: 4%;
+    
+}
+
