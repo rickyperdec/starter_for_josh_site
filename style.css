@@ -47,10 +47,11 @@ a:hover {
 
 .herobg h1 {
     
+    font-family: 'Raleway', sans-serif;
     float: right;
     color: white;
     width: 341px;
-    font-size: 7.1em;
+    font-size: 6.1em;
     letter-spacing: -10px;
     font-weight: 800;
     line-height: 75%;
@@ -61,3 +62,101 @@ a:hover {
     
 }
 
+.aboutbg {
+    
+    background-color: lightgray;
+    
+}
+
+
+.aboutbg h2 {
+    
+    font-size: 2.4em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+
+.particle {
+    
+    margin-left: 200px;
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 0px;
+    padding-bottom: 40px;
+    
+}
+
+.about-text {
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 1.4em;
+    line-height: 2em;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+
+.blocker {
+    
+    width: 140px;
+    height: 5px;
+    background-color: purple;
+    margin: auto;
+    margin-bottom: 40px;
+    
+}
+
+.articlebg {
+    
+    background-color: whitesmoke;
+    
+}
+
+.article-title {
+    
+    font-size: 2em;
+    font-family: 'Raleway', sans-serif;
+    color: #3c1f68;
+    
+}
+
+.port {
+    
+    font-size: 1.4em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    
+}
+
+.date {
+    
+    font-size: 0.8em;
+    letter-spacing: 1px;
+    
+}
+
+.readmore {
+    
+    font-size: 0.7em;
+    color: grey;
+    margin-bottom: 40px;
+    
+}
+
+footer {
+    
+    background-image: url(images/footer-image.jpg);
+    background-size: cover;
+    width: 100%;
+    background-position: center center;
+}
+
+.footer-content {
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+    
+}
